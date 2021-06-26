@@ -46,9 +46,6 @@ Start the server
 - As an administrator you can mark the question as "answered" and "answered", you can also delete the question.
 - Each room generates a unique code, you can create this code and share it with your friends so they can ask questions.
 - Responsive APP.
-- Search you favorite pokemon and get yout stats.
-- Available on most devices.
-
   
 ## 🛠 Used tools ⌨
 -  Scss
