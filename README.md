@@ -18,7 +18,7 @@ A place where you can create a room, their users will ask questions and you can 
 Clone the project
 
 ```bash
-  git clone https://github.com/Alex-dll/Pokedex
+  git clone https://github.com/Alex-dll/letmeask
 ```
 
 Go to the project directory
