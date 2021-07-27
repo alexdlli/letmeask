@@ -7,9 +7,6 @@ A place where you can create a room, their users will ask questions and you can 
 
 ### App details
 - To visualization the site you need click [**Here**](https://letmeask-dad63.web.app/). 
-<img src="https://github.com/Alex-dll/letmeask/blob/master/src/assets/images/Letmeask.png?raw=true" alt="Letmeask"/>
-
-
 > #### Behaviors![Behaviors](https://github.com/Alex-dll/letmeask/blob/master/src/assets/images/App%20viewr.gif?raw=true)
 
 
